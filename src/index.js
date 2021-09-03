@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
-import Potato from "./Potato";
+import App4 from "./App4";
 
-ReactDOM.render(<App />, document.getElementById("potato"));
+ReactDOM.render(<App4 />, document.getElementById("potato"));
